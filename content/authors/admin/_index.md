@@ -17,19 +17,16 @@ email: "kimchuna@kribb.re.kr"
 interests:
 - Cellular senescence mechanism
 - in vivo atlas of cellular senescence 
-- Intervention on cellular senescence 
+- Intervention on cellular senescence
+name: Chuna Kim (김천아)
 organizations:
 - name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
 role: Senior Researcher
-organizations:
-- name: University of Science and Technology
-role: Associate Proferssor
 superuser: true
 user_groups:
 - admin
 - Principal Investigator
 highlight_name: true
-title: Chuna Kim (김천아)
 ---
 
 **David Michael Miller, MD, PhD, FAAD** is a Board-Certified Dermatologist and Medical Oncologist at Massachusetts General Hospital and investigator in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). The Miller Lab's long-term goal is to identify and develop novel therapeutics for advanced skin cancer and to understand the mechanism of response and resistance to those therapies.   
