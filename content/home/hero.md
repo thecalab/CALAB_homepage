@@ -7,9 +7,9 @@ title: TheCALab
 
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
-    text_color_light: true
+    gradient_end: '#00a06b'
+    gradient_start: '#008559'
+    text_color_light: false
 advanced:
   css_class: fullscreen
 ---
