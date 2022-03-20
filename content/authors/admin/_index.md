@@ -18,7 +18,7 @@ interests:
 - Cellular senescence mechanism
 - in vivo atlas of cellular senescence 
 - Intervention on cellular senescence
-name: Chuna Kim (김천아)
+name: Chuna Kim
 organizations:
 - name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
 role: Senior Researcher
