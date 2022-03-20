@@ -12,7 +12,7 @@ subtitle: ''
 
 content:
   user_groups:
-    - Principal Investigators
+    - Principal Investigator
     - Grad Students
 
 design:
