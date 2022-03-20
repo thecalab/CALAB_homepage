@@ -1,4 +1,6 @@
 ---
+authors:
+- admin
 bio: My research interests include cellular senescence and senolytics.
 education:
   courses:
