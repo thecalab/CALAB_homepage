@@ -12,33 +12,25 @@ education:
     year: 2016
   - course: BA in Biological Science
     institution: Seoul National University
-    year: 2009
+    year: 2009 
 email: "kimchuna@kribb.re.kr"
-highlight_name: true
 interests:
 - Cellular senescence mechanism
-- *in vivo* atlas of cellular senescence 
+- in vivo atlas of cellular senescence 
 - Intervention on cellular senescence 
+name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
 organizations:
 - name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
 role: Senior Researcher
 - name: University of Science and Technology
 role: Associate Proferssor
-
-#social:
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/gcushen
-
 superuser: true
 user_groups:
 - admin
 - Principal Investigator
-
-title: Chuna Kim (김천아)
 ---
 
-**Chuna Kim, PhD** is a Board-Certified Dermatologist and Medical Oncologist at Massachusetts General Hospital and investigator in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). The Miller Lab's long-term goal is to identify and develop novel therapeutics for advanced skin cancer and to understand the mechanism of response and resistance to those therapies.   
+**David Michael Miller, MD, PhD, FAAD** is a Board-Certified Dermatologist and Medical Oncologist at Massachusetts General Hospital and investigator in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). The Miller Lab's long-term goal is to identify and develop novel therapeutics for advanced skin cancer and to understand the mechanism of response and resistance to those therapies.   
 
 Dr. Miller graduated with Honors from Boston College where he earned a BA in Political Science.  He received his medical (MD) and PhD degree in Biomedical Sciences from the University of Massachusetts.  While at UMass, Dr. Miller received the American Diabetes Association Physician-Scientist Training Award, a Fuller Foundation grant, and he was inducted into the Alpha Omega Honor Society. 
 
