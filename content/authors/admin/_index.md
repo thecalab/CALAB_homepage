@@ -1,44 +1,61 @@
 ---
 authors:
 - admin
-bio: My research interests include cellular senescence and senolytics.
+bio: My research interests include clinical and translational research in advanced skin cancers.
 education:
   courses:
-  - course: Postdoctoral Fellow in Biolgical Science
-    institution: Seoul National University
-    year: 2019
-  - course: PhD in Biological Science
-    institution: Seoul National University
-    year: 2016
-  - course: BA in Biological Science
-    institution: Seoul National University
-    year: 2009
-email: "kimchuna@kribb.re.kr"
-highlight_name: true
+  - course: Fellowship in Hematology/Oncology
+    institution: Beth Isreal Deaconess Medical Center
+    year: 2015
+  - course: Oncology Center for Excellence Fellowship
+    institution: Food and Drug Administration
+    year: 2018
+  - course: Residency in Internal Medicine
+    institution: Brigham and Women's Hospital
+    year: 2015
+  - course: Residency in Dermatology
+    institution: Columbia University Medical Center
+    year: 2014
+  - course: Doctorate of Medicine
+    institution: University of Massachusetts Medical School
+    year: 2010
+  - course: PhD in Biomedical Sciences
+    institution: University of Massachusetts Medical School
+    year: 2010
+  - course: BA in Political Science
+    institution: Boston College
+    year: 2000
+email: "dmiller4@mgh.harvard.edu"
 interests:
-- Cellular senescence mechanism
-- *in vivo* atlas of cellular senescence 
-- Intervention on cellular senescence 
+- Clinical And Translational Research
+- Advanced Skin Cancer
+- Data Science
+- R
+name: David Michael Miller 
 organizations:
-- name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
-role: Senior Researcher
-- name: University of Science and Technology
-role: Associate Proferssor
-
-#social:
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/gcushen
-
+- name: Massachusetts General Hospital
+  url: ""
+role: Medical Oncologist and Dermatologist
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Dave_M_Miller
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZS-h1PsAAAAJ&hl=enAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/DM-Miller
 superuser: true
 user_groups:
 - admin
 - Principal Investigator
-
-title: Chuna Kim (김천아)
 ---
 
-**Chuna Kim, PhD** is a Board-Certified Dermatologist and Medical Oncologist at Massachusetts General Hospital and investigator in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). The Miller Lab's long-term goal is to identify and develop novel therapeutics for advanced skin cancer and to understand the mechanism of response and resistance to those therapies.   
+**David Michael Miller, MD, PhD, FAAD** is a Board-Certified Dermatologist and Medical Oncologist at Massachusetts General Hospital and investigator in the [**Massachusetts General Hospital Cancer Center**](https://www.massgeneral.org/cancer-center). The Miller Lab's long-term goal is to identify and develop novel therapeutics for advanced skin cancer and to understand the mechanism of response and resistance to those therapies.   
 
 Dr. Miller graduated with Honors from Boston College where he earned a BA in Political Science.  He received his medical (MD) and PhD degree in Biomedical Sciences from the University of Massachusetts.  While at UMass, Dr. Miller received the American Diabetes Association Physician-Scientist Training Award, a Fuller Foundation grant, and he was inducted into the Alpha Omega Honor Society. 
 
