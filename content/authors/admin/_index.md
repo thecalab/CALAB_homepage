@@ -16,7 +16,7 @@ education:
 email: "kimchuna@kribb.re.kr"
 interests:
 - Cellular senescence mechanism
-- *in vivo* atlas of cellular senescence 
+- in vivo atlas of cellular senescence 
 - Intervention on cellular senescence 
 organizations:
 - name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
