@@ -9,10 +9,10 @@ design:
   background:
     gradient_end: '#00a06b'
     gradient_start: '#008559'
-    text_color_light: false
-advanced:
-  css_class: fullscreen
+    text_color_light: true
+#advanced:
+  #css_class: fullscreen
 ---
 
-Cellular Agenomics lab
+##Cellular Agenomics lab
 
