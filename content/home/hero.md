@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Theme
-hero_media: hero-academic.png
+title: TheCALab
+#hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/hugo-themes/
@@ -22,6 +22,5 @@ advanced:
   css_class: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+Cellular Agenomics lab
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
