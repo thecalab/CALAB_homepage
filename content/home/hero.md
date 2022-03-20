@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: TheCALab
+title: CALab
 #hero_media: hero-academic.png
 
 design:
