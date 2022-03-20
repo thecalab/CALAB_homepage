@@ -1,9 +1,10 @@
 ---
 authors:
 - admin
-bio: My research interests include cellular senescence and senolytics.
+bio: My research interests include clinical and translational research in advanced skin cancers.
 education:
   courses:
+<<<<<<< HEAD
   - course: Postdoctoral Fellow in Biolgical Science
     institution: Seoul National University
     year: 2019
@@ -24,6 +25,53 @@ organizations:
 role: Senior Researcher
 - name: University of Science and Technology
 role: Associate Proferssors
+=======
+  - course: Fellowship in Hematology/Oncology
+    institution: Beth Isreal Deaconess Medical Center
+    year: 2015
+  - course: Oncology Center for Excellence Fellowship
+    institution: Food and Drug Administration
+    year: 2018
+  - course: Residency in Internal Medicine
+    institution: Brigham and Women's Hospital
+    year: 2015
+  - course: Residency in Dermatology
+    institution: Columbia University Medical Center
+    year: 2014
+  - course: Doctorate of Medicine
+    institution: University of Massachusetts Medical School
+    year: 2010
+  - course: PhD in Biomedical Sciences
+    institution: University of Massachusetts Medical School
+    year: 2010
+  - course: BA in Political Science
+    institution: Boston College
+    year: 2000
+email: "dmiller4@mgh.harvard.edu"
+interests:
+- Clinical And Translational Research
+- Advanced Skin Cancer
+- Data Science
+- R
+name: David Michael Miller 
+organizations:
+- name: Massachusetts General Hospital
+  url: ""
+role: Medical Oncologist and Dermatologist
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Dave_M_Miller
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZS-h1PsAAAAJ&hl=enAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/DM-Miller
+>>>>>>> f432213e3b1b3e2d3d510128d70da9a24a396b98
 superuser: true
 user_groups:
 - admin
