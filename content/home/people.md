@@ -1,23 +1,38 @@
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
-headless: true  
 
-title = meet the team
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 90
+
+title: Recent Publications
+subtitle: ''
 
 content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-  - Principal Investigators
-- Researchers
-- Grad Students
-- Administration
-- Visitors
-- Alumni
+  # Filter on criteria
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: true
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  show_social: false
-show_interests: true
-show_role: true
-show_organizations: true
-
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
 ---
+
