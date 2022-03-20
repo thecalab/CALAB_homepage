@@ -14,5 +14,5 @@ design:
   #css_class: fullscreen
 ---
 
-##Cellular Agenomics lab
+Cellular Agenomics lab
 
