@@ -21,6 +21,7 @@ interests:
 organizations:
 - name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
 role: Senior Researcher
+organizations:
 - name: University of Science and Technology
 role: Associate Proferssor
 superuser: true
