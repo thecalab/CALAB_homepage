@@ -23,7 +23,7 @@ organizations:
 - name: Korea Research Institute of Bioscience and Biotechnology (KRIBB)
 role: Senior Researcher
 - name: University of Science and Technology
-role: Associate Proferssor
+role: Associate Proferssors
 superuser: true
 user_groups:
 - admin
