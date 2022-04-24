@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sohee Kim | CALab</title>
+    <link>https://calab.netlify.app/author/sohee-kim/</link>
+      <atom:link href="https://calab.netlify.app/author/sohee-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sohee Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://calab.netlify.app/author/sohee-kim/avatar_hube1b248a1b5c09cc872e3418067e2906_9813_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sohee Kim</title>
+      <link>https://calab.netlify.app/author/sohee-kim/</link>
+    </image>
+    
+  </channel>
+</rss>

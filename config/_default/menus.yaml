@@ -10,18 +10,21 @@ main:
   - name: Team
     url: '#people'
     weight: 20
-  - name: Presentations & Lectures
-    url: '#talks'
+  - name: Core Skills
+    url: '#skills'
     weight: 30
-  - name: Posts
-    url: '#posts'
-    weight: 60
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 40
+  - name: Posts
+    url: '#posts'
+    weight: 50
   - name: Funding
     url: '#funding'
     weight: 60
+  - name: Gallery
+    url: '#gallery'
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80

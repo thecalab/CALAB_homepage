@@ -23,11 +23,11 @@ feature:
 - description: 
   icon: linux
   icon_pack: custom
-  name: linux
+  name: Linux
 - description: 
-  icon: dna
+  icon: NGS
   icon_pack: custom
-  name: Genomics
+  name: Sequencing analysis
 - description: 
   icon: cell
   icon_pack: custom
@@ -36,6 +36,11 @@ feature:
   icon: mouse
   icon_pack: custom
   name: Mouse study
+- description: 
+  icon: dna
+  icon_pack: custom
+  name: Molecular biology
+
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

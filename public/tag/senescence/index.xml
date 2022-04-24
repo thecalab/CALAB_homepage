@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senescence | CALab</title>
+    <link>https://calab.netlify.app/tag/senescence/</link>
+      <atom:link href="https://calab.netlify.app/tag/senescence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Senescence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://calab.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Senescence</title>
+      <link>https://calab.netlify.app/tag/senescence/</link>
+    </image>
+    
+    <item>
+      <title>Cellular senescence mechanism</title>
+      <link>https://calab.netlify.app/project/senescence-mechanism/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://calab.netlify.app/project/senescence-mechanism/</guid>
+      <description>&lt;p&gt;We are deciphering the mechanism of cellular senescence via CRISPR screening.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Senescence Atlas</title>
+      <link>https://calab.netlify.app/project/senescence-atlas/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://calab.netlify.app/project/senescence-atlas/</guid>
+      <description>&lt;p&gt;Using single cell RNA sequencing, we are investigating the transcriptomic feature of &lt;em&gt;in vivo&lt;/em&gt; cellular senescence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Senolytics</title>
+      <link>https://calab.netlify.app/project/senolytics/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://calab.netlify.app/project/senolytics/</guid>
+      <description>&lt;p&gt;Senolytics drug development utilizes a multicomics approach.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
